@@ -31,5 +31,5 @@ print(a_sum(x=3, y=5, z=22))
 
 
 print(sum_squares(2,2,5,5))
-print(absolute_sum(2,2))
+print(absolute_sum(-3,-2,-1,6))
 print(personal_numbers("monica", 22, 47, 5, 5, 25, 3))

@@ -19,12 +19,10 @@ def sum_squares(*args):
 
 
 def absolute_sum(*args):
-  sum = 0
+  sum=0
   for arg in args:
-   sum += abs(arg)
-   return sum
-
-
+    sum += abs(arg)
+  return sum
 
 ########################################################################################################################
 # Indefinite Arguments (*args) Practice #3
